@@ -24,10 +24,32 @@
 
 ---
 
-## 🧠 Tech Stack
+<h2 align="center">🧠 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,tailwind,html,css,python,go,rust,mongodb,mysql,firebase,vercel,docker,kubernetes,nginx,postman,vscode,figma,git,github,linux" />
+  <strong>Languages & Fundamentals</strong><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,c,html,css" /><br><br>
+
+  <strong>Frontend Ecosystem</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite" /><br><br>
+
+  <strong>Backend & API</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /><br><br>
+
+  <strong>Databases & Caching</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" /><br><br>
+
+  <strong>DevOps & Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,nginx,cloudflare" /><br><br>
+
+  <strong>CI/CD & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,git,github,vscode,postman" /><br><br>
+
+  <strong>Testing & Quality</strong><br>
+  <img src="https://skillicons.dev/icons?i=jest,playwright,eslint,prettier" /><br><br>
+
+  <strong>Operating Systems</strong><br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" /><br>
 </div>
 
 ---
