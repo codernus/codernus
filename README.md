@@ -34,9 +34,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernus&theme=react&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernus&layout=compact&langs_count=10&theme=react&hide=html" />
 </div>
