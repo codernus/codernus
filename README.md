@@ -110,7 +110,7 @@ This repository includes professional GitHub Actions workflows in `.github/workf
 ## 💬 Quote I Live By
 
 <blockquote align="center">
-  "Build things you wish existed. Share them so others can too."
+  "When you give up, remember, when, and why you start!"
 </blockquote>
 
 ---
