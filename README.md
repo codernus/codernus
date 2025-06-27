@@ -34,11 +34,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernus&theme=react&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernus&theme=react&border_radius=10" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernus&layout=compact&langs_count=10&theme=react&hide=html"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernus&layout=compact&langs_count=10&theme=react&hide=html" />
 </div>
 
 ---
@@ -46,24 +46,22 @@
 ## 🌌 Coderniverse
 
 <div align="center">
-  <p>
-    <strong>Coderniverse</strong> is a tech community ecosystem designed to empower developers through open-source, mentorship, and hands-on collaboration.
-  </p>
+  <p><strong>Coderniverse</strong> is a tech community ecosystem designed to empower developers through open-source, mentorship, and hands-on collaboration.</p>
   <a href="https://github.com/coderniverse" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Coderniverse-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Explore%20Coderniverse-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 📁 Useful Workflows & Automation
+## 📁 Workflows & Automation
 
-> This repository includes advanced GitHub workflows located in `.github/workflows/`
+This repository includes professional GitHub Actions workflows in `.github/workflows/`:
 
-- ✅ `snake.yml`: Contribution graph snake animation
-- ✅ `ci.yml`: Continuous integration pipeline (e.g., lint, test)
-- ✅ `pages.yml`: GitHub Pages deployment
-- ✅ `blog-sync.yml`: (Planned) RSS → Markdown blog sync
+- `snake.yml`: Contribution graph snake animation
+- `ci.yml`: Continuous integration pipeline
+- `pages.yml`: GitHub Pages deployment
+- `blog-sync.yml`: Sync blog posts via RSS feed (coming soon)
 
 ---
 
@@ -86,16 +84,15 @@
 
 ---
 
-## 📚 Latest Blog Posts *(Coming Soon)*
-> _RSS or static integration planned under `blog-sync.yml`_
+## 🐍 Contribution Snake
 
----
-
-## 💬 Quote I Live By
-
-<blockquote align="center">
-  "Build things you wish existed. Share them so others can too."
-</blockquote>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codernus/codernus/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codernus/codernus/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/codernus/codernus/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -109,15 +106,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Quote I Live By
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codernus/codernus/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codernus/codernus/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/codernus/codernus/output/github-snake.svg" />
-  </picture>
-</p>
+<blockquote align="center">
+  "Build things you wish existed. Share them so others can too."
+</blockquote>
 
 ---
 
