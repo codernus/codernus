@@ -13,12 +13,10 @@
 
 ## 🚀 About Me
 
-- 💼 Co-Founder & Builder at **Coderniverse** — a dev-first learning & collaboration hub
-- 🧠 Former CEA, Council Leader, Infrastructure & Platform Engineer
+- 💼 Builder at **Coderniverse** — a dev-first learning & collaboration hub
+- 🧠 Former CEA, Council Leader, Infrastructure Developer
 - 🔭 Exploring distributed systems, backend engineering, and cloud-native architecture
-- 🌱 Learning **Rust**, **Go**, **Kubernetes**, **Cloud Native**, **DX Tools**
-- ✍️ Writing about engineering, leadership, and community at [blog.daffajayadev.com](https://blog.daffajayadev.com)
-- 🌐 Portfolio: [daffajayadev.com](https://daffajayadev.com)
+- 🌱 Learning **Laravel**, **Flutter**, **Java**, **API**, ****
 - 🌍 Based in Bandung, Indonesia — open to global collaborations
 - 🤝 Available for collabs, mentoring, OSS, and speaking
 
