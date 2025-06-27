@@ -4,49 +4,50 @@
 
 <h1 align="center">👋 Hey, I'm Daffa Jaya Perkasa 👨‍💻</h1>
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=535&lines=Software+Engineer+%7C+Analyst+Consultant+%7C+Community+Builder;Infra+%2F+Platform+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Tech+Consultant+%7C+Community+Builder;Infra+%2F+Platform+Engineer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Co-Founder & Builder at **Coderniverse** — developer-first learning & collaboration hub
-- 🧠 Ex-CEA, Council Leader, Infra & Platform Developer
-- 🔭 Exploring distributed systems, backend engineering, and cloud-native infrastructure
-- 🌱 Currently learning **Rust**, **Go**, **Kubernetes**, and **Platform Engineering**
-- ✍️ Writing on engineering, community building, and software philosophy at [blog.daffajayadev.com](https://blog.daffajayadev.com)
+- 💼 Co-Founder & Builder at **Coderniverse** — a dev-first learning & collaboration hub
+- 🧠 Former CEA, Council Leader, Infrastructure & Platform Engineer
+- 🔭 Exploring distributed systems, backend engineering, and cloud-native architecture
+- 🌱 Learning **Rust**, **Go**, **Kubernetes**, **Cloud Native**, **DX Tools**
+- ✍️ Writing about engineering, leadership, and community at [blog.daffajayadev.com](https://blog.daffajayadev.com)
 - 🌐 Portfolio: [daffajayadev.com](https://daffajayadev.com)
-- 🌍 Based in Bandung, Indonesia — working globally
-- 🤝 Open to collabs, mentoring, or speaking engagements
+- 🌍 Based in Bandung, Indonesia — open to global collaborations
+- 🤝 Available for collabs, mentoring, OSS, and speaking
 
 ---
 
 ## 🧠 Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,tailwind,html,css,python,go,rust,mongodb,mysql,firebase,vercel,docker,kubernetes,nginx,postman,vscode,figma,git,github,linux" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codernus&show_icons=true&theme=react&count_private=true&border_radius=10"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernus&theme=react&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codernus&theme=react&border_radius=10"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernus&layout=compact&langs_count=10&theme=react&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codernus&layout=compact&langs_count=10&theme=react&hide=html"/>
 </div>
 
 ---
 
 ## 🌌 Coderniverse
+
 <div align="center">
   <p>
-    <strong>Coderniverse</strong> is a universal dev community to collaborate, share real-world engineering experience, and grow through open source & education.
+    <strong>Coderniverse</strong> is a tech community ecosystem designed to empower developers through open-source, mentorship, and hands-on collaboration.
   </p>
   <a href="https://github.com/coderniverse" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20Coderniverse-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -55,7 +56,19 @@
 
 ---
 
+## 📁 Useful Workflows & Automation
+
+> This repository includes advanced GitHub workflows located in `.github/workflows/`
+
+- ✅ `snake.yml`: Contribution graph snake animation
+- ✅ `ci.yml`: Continuous integration pipeline (e.g., lint, test)
+- ✅ `pages.yml`: GitHub Pages deployment
+- ✅ `blog-sync.yml`: (Planned) RSS → Markdown blog sync
+
+---
+
 ## 🤝 Connect with Me
+
 <div align="center">
   <a href="mailto:daffajayaperkasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -73,12 +86,13 @@
 
 ---
 
-## 📝 Latest Blog Posts
-> _Coming soon: RSS integration or manual updates._
+## 📚 Latest Blog Posts *(Coming Soon)*
+> _RSS or static integration planned under `blog-sync.yml`_
 
 ---
 
 ## 💬 Quote I Live By
+
 <blockquote align="center">
   "Build things you wish existed. Share them so others can too."
 </blockquote>
@@ -86,6 +100,7 @@
 ---
 
 ## ☕ Support My Work
+
 <div align="center">
   <a href="https://ko-fi.com/codernus" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="40" alt="Buy Me a Coffee" />
@@ -93,6 +108,8 @@
 </div>
 
 ---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -105,5 +122,6 @@
 ---
 
 <div align="center">
-  <sub>Crafted with clarity & care by <a href="https://github.com/codernus">@codernus</a></sub>
+  <sub>Crafted with clarity & care by <a href="https://github.com/codernus">@codernus</a></sub><br/>
+  <sub>© 2025 Codernus. All rights reserved.</sub>
 </div>
