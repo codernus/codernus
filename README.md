@@ -27,29 +27,28 @@
 <h2 align="center">🧠 Tech Stack & Tools</h2>
 
 <div align="center">
-  <strong>Languages & Fundamentals</strong><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,c,html,css" /><br><br>
 
-  <strong>Frontend Ecosystem</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite" /><br><br>
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,html,css" /><br><br>
 
-  <strong>Backend & API</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /><br><br>
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" /><br><br>
 
-  <strong>Databases & Caching</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" /><br><br>
+  <strong>Backend</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /><br><br>
 
-  <strong>DevOps & Cloud</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,nginx,cloudflare" /><br><br>
+  <strong>Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" /><br><br>
 
-  <strong>CI/CD & Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=githubactions,git,github,vscode,postman" /><br><br>
+  <strong>DevOps & Infra</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,cloudflare,nginx" /><br><br>
 
-  <strong>Testing & Quality</strong><br>
-  <img src="https://skillicons.dev/icons?i=jest,playwright,eslint,prettier" /><br><br>
+  <strong>CI/CD & Testing</strong><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,eslint,prettier,jest" /><br><br>
 
-  <strong>Operating Systems</strong><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" /><br>
+  <strong>Tools & Workflow</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /><br>
+
 </div>
 
 ---
