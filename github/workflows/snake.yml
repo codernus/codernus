@@ -7,14 +7,19 @@ on:
 
 jobs:
   generate:
-    name: generate contribution snake
+    name: Generate contribution snake
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate green Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: codernus
           outputs: dist/github-snake.svg, dist/github-snake-dark.svg
+          color_snake: "#00FF7F"
+          color_dots: "#000000,#2f2f2f,#4f4f4f,#6f6f6f,#8f8f8f"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
