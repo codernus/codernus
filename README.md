@@ -55,33 +55,20 @@
 
 ---
 
-## 📁 Workflows & Automation
-
-This repository includes professional GitHub Actions workflows in `.github/workflows/`:
-
-- `snake.yml`: Contribution graph snake animation
-- `ci.yml`: Continuous integration pipeline
-- `pages.yml`: GitHub Pages deployment
-- `blog-sync.yml`: Sync blog posts via RSS feed (coming soon)
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:daffajayaperkasa@gmail.com">
+  <a href="mailto:dapajayaperkasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/daffajaya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/dayprksa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://codernus.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://discord.com/users/1374287264409976852" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
