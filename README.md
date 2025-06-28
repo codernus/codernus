@@ -16,7 +16,7 @@
 - 💼 Builder at **Coderniverse** — a dev-first learning & collaboration hub
 - 🧠 Former CEA, Council Leader, Infrastructure Developer
 - 🔭 Exploring distributed systems, backend engineering, and cloud-native architecture
-- 🌱 Learning **Laravel**, **Flutter**, **Java**, **API**, ****
+- 🌱 Learning **Laravel**, **Flutter**, **Java**, **API**, **Rust**
 - 🌍 Based in Bandung, Indonesia — open to global collaborations
 - 🤝 Available for collabs, mentoring, OSS, and speaking
 
