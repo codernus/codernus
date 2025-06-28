@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm Daffa Jaya Perkasa 👨‍💻</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Analyst+Consultant;Ex-CEA+%7C+Council+President+%7C+Infra+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Analyst+Consultant;Ex-CEA+%7C+Council+Leader+%7C+Infra+Dev" alt="Typing SVG" />
 </div>
 
 
