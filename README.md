@@ -1,13 +1,12 @@
 <!-- GitHub README Profile: Daffa Jaya Perkasa -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codernus.codernus" />
+<img align="right" src="https://sjc.microlink.io/Ndld680AsScVnH5jOsOTKFXHsdfoN3DDGaekuEooqRYv5PbE0SpkZlsl16YPI3x7jsTnFLS-dM0S-b4sqbZpjA.jpeg" />
 
 <h1 align="center">👋 Hey, I'm Daffa Jaya Perkasa 👨‍💻</h1>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Analyst+Consultant;Ex-CEA+%7C+Council+Leader+%7C+Infra+Dev" alt="Typing SVG" />
 </div>
-
 
 ---
 
@@ -62,8 +61,6 @@
 
 </div>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -102,7 +99,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
 
 ---
 
